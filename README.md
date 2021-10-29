@@ -1,4 +1,4 @@
-# CertificateRevocationTest
+# Steps to use openssl to test certificate revocation
 
 1. Download Opeenssl executable from https://wiki.openssl.org/index.php/Binaries and https://bintray.com/vszakats/generic/openssl/1.1.1d .
 
